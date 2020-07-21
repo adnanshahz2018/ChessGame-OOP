@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1514380733 source:e:\semester-3\oop\chess\chess_object_oriented\main.cpp
+	<iostream>
+	<string>
+	"knight.h"
+	"chess_board.h"
+
+1514056539 e:\semester-3\oop\chess\chess_object_oriented\include\knight.h
+	<iostream>
+	"chess_board.h"
+
+1514108665 e:\semester-3\oop\chess\chess_object_oriented\include\chess_board.h
+	"knight.h"
+	"pawn.h"
+	"Queen.h"
+	"Bishop.h"
+	"king.h"
+	"Rook.h"
+	"check_king.h"
+
+1514059567 source:e:\semester-3\oop\chess\chess_object_oriented\src\knight.cpp
+	<iostream>
+	<string>
+	"knight.h"
+
+1514372501 source:e:\semester-3\oop\chess\chess_object_oriented\src\chess_board.cpp
+	<iostream>
+	<string>
+	"chess_board.h"
+
+1514367852 e:\semester-3\oop\chess\chess_object_oriented\include\pawn.h
+	"chess_board.h"
+
+1514367868 source:e:\semester-3\oop\chess\chess_object_oriented\src\pawn.cpp
+	<iostream>
+	<string>
+	"pawn.h"
+	"chess_board.h"
+
+1514122559 e:\semester-3\oop\chess\chess_object_oriented\include\queen.h
+	"chess_board.h"
+	"Bishop.h"
+	"Rook.h"
+
+1513772566 e:\semester-3\oop\chess\chess_object_oriented\include\bishop.h
+
+1514122414 source:e:\semester-3\oop\chess\chess_object_oriented\src\bishop.cpp
+	<iostream>
+	"Bishop.h"
+
+1514300940 source:e:\semester-3\oop\chess\chess_object_oriented\src\queen.cpp
+	<iostream>
+	<string>
+	"Queen.h"
+
+1513683958 e:\semester-3\oop\chess\chess_object_oriented\include\king.h
+
+1514122293 source:e:\semester-3\oop\chess\chess_object_oriented\src\king.cpp
+	<iostream>
+	"king.h"
+
+1513774305 e:\semester-3\oop\chess\chess_object_oriented\include\rook.h
+
+1514122522 source:e:\semester-3\oop\chess\chess_object_oriented\src\rook.cpp
+	<iostream>
+	"Rook.h"
+
+1514131704 e:\semester-3\oop\chess\chess_object_oriented\include\check_king.h
+	<iostream>
+	<string>
+	"chess_board.h"
+
+1514367242 source:e:\semester-3\oop\chess\chess_object_oriented\src\check_king.cpp
+	"check_king.h"
+	<iostream>
+	<string>
+
